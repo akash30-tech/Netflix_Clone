@@ -88,16 +88,6 @@ Netflix_Clone/
 
 ---
 
-## Example .env for Backend
-
-```
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-PORT=5000
-```
-
----
-
 ## Screenshots
 
 Add screenshots here (optional)
